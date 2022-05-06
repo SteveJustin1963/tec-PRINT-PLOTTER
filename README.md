@@ -31,7 +31,7 @@ Unfortainly in 2022 its in extremely unlikely one can buy a VT200 pen/Plotter. S
 
 
 ### Ref
-- https://www.benjaminpoilve.com/projects/plotter-story.html#
+- https://www.benjaminpoilve.com/projects/plotter-story.html#  and https://github.com/BenjaminPoilve/Liplo
 
 
 
