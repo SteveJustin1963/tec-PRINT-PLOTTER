@@ -25,8 +25,11 @@ OD = CR = Carriage Return
 
 ### Iterate
 
-Unfortainly in 2022 its in extremely unlikely one can buy a VT200 pen/Plotter. So we can either seek a near current pen plotter that takes 8 bit input or we make our own x y plotter, which will need an interpreter and motor control routines. It is possible we could just use a raw dc drive or stepper drive xy plotter, or even use a scientific plotter that take direct analog voltages. We will explore these possibilities. tba. maybe do something like in ref.
+Unfortainly in 2022 its in extremely unlikely one can buy a VT200 pen/Plotter. So we can either seek a near current pen plotter that takes 8 bit input or we make our own x y plotter, which will need an interpreter and motor control routines. It is possible we could just use a raw dc drive or stepper drive xy plotter, or even use a scientific plotter that take direct analog voltages. We will explore these possibilities. tba. 
 
+maybe do something like in ref.
+
+![](https://github.com/SteveJustin1963/tec-PRINT-PLOTTER/blob/main/pics/pp1.png)
 
 
 
