@@ -13,3 +13,15 @@ This TE project conrtrols a `VT200 pen/Plotter` to print by plotting text or ima
 
 "All information is fed to the printer in ASCII code. If you want a particular  character, the correct code must be sent to the printer. Even if you want to send a number to the printer, such as 150, you must send it in the form of ASCII. This means 150 translates to 31 35 30, as you will see later from the table."
 
+![](https://github.com/SteveJustin1963/tec-PRINT-PLOTTER/blob/main/pics/ascii-1.png)
+
+also can generate graphics on the printer and informationis still in ASCII. 
+eg using the table code looks like this:
+```
+OA = LF = Line Feed.
+OD = CR = Carriage Return
+12 =. DC2 = Graphic Mode
+49 = I = sets the pen's location as co-ordinates 0,0.
+2C = , =Separates I from D
+44 = D = draw from present location to the co-ordinate given by the next byte(s) of data.
+```
